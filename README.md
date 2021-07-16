@@ -4,5 +4,7 @@
  
 ![alt text](positions.jpeg)
 
- ![Chart 2](screenshot.jpg)
+![alt text](FeaturesDistribution.jpeg)
+
+ 
 
