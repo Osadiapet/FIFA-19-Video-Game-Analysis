@@ -1,5 +1,8 @@
 # FIFA 19 DATA ANALYSIS
- This is a thorough Exploratory Data analysis and Visualization on FIFA '19 dataset. As a huge footall fan, I decided to play and wrangle with the FIFA '19 dataset to extract actionable insights from the data.
+Experience the beautiful game from a data science perspective with our FIFA 19 analysis. 
+Explore player stats, performance metrics, and tactical insights to elevate your gameplay.
+
+
 ![alt text](positions.jpeg)
 
 ![alt text](FeaturesDistribution.jpeg)
